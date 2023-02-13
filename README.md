@@ -10,6 +10,17 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+  
+<h1>Let's move to home page </h1>
+  <div>
+    <img src = "https://user-images.githubusercontent.com/107476003/218419603-5f4ad323-8786-4a19-8b41-57ef7b5599ef.png"/>
+  </div>
+  <div>
+     <img src = "https://user-images.githubusercontent.com/107476003/218419963-abb6eb93-d80b-48ac-a472-c737759b3d0f.png"/>
+  </div>
+  <div>
+    <img src = "https://user-images.githubusercontent.com/107476003/218419979-69da6b69-0a3f-469f-a646-186fe7d5d95f.png"/>
+  </div>
 
 <h1>Go Live</h1>
 <ul>App Deployed Link
